@@ -11,3 +11,7 @@ Framework: Asp.Net MVC
 Username:test@test.com
 
 Password:P@ssw0rd 
+ ![image](https://github.com/Tim1023/qualityTshirt-asp.net/blob/master/screenshots/Picture1.png)
+ ![image](https://github.com/Tim1023/qualityTshirt-asp.net/blob/master/screenshots/Picture2.png)
+ ![image](https://github.com/Tim1023/qualityTshirt-asp.net/blob/master/screenshots/Picture3.png)
+ ![image](https://github.com/Tim1023/qualityTshirt-asp.net/blob/master/screenshots/screenshots.jpeg)
